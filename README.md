@@ -10,7 +10,7 @@
 ## [Resume](https://docs.google.com/document/d/10ZeLIKIJMjlI3UOuUhqHkZJmXVY_pb2C/edit?usp=sharing&ouid=102868772148828457417&rtpof=true&sd=true)
 Welcome to my GitHub! <br>
 I'm Wonbin Lee, a web full-stack engineer who majored in computer engineering in South Korea.
-I'm passionate about creating meaningful, innovative solutions that enhance user experiences. With expertise in web frontend development, web backend development, game design, and AI-driven projects, I thrive in environments where technology meets creativity.
+I'm passionate about creating meaningful, innovative solutions that enhance user experiences. With expertise in web fullstack development, game design, and AI-driven projects, I thrive in environments where technology meets creativity.
 
 <br>
 
