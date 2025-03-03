@@ -19,7 +19,7 @@ I'm passionate about creating meaningful, innovative solutions that enhance user
 Explore my GitHub to see my latest projects:
 
 - [**RISKOUT**](https://github.com/osamhack2021/ai_web_RISKOUT_BTS): Risk Management Platform for Military
-- [**PioneerX**](https://github.com/wblee800/PioneerX): An AI-driven platform providing personalized immigration strategies and recommendations.
+- [**PioneerX**](https://github.com/katechackers/PioneerX): An AI-driven platform providing personalized immigration strategies and recommendations.
 
 <br>
 
