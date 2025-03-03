@@ -28,7 +28,7 @@ Explore my GitHub to see my latest projects:
 - **Frontend:** React.js, JavaScript, TypeScript, HTML, CSS, styled-components, Tailwind CSS
 - **Backend:** Django, Node.js
 - **Game Development:** Unity, Unreal Engine
-- **AI & ML:** GPT APIs, DeepSeek APIs, Ollama
+- **AI & ML:** Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
 - **Tools:** Git, VSCode, Visual Studio, Docker
 
 <br>
