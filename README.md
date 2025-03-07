@@ -1,6 +1,6 @@
 # Wonbin Lee - Web Full-Stack Engineer
 
-### AI-driven personalized immigration, job match, social networking assistant - [PioneerX](https://pioneerx.ca) 
+### AI-driven personalized immigration, job matching, social network assistant - [PioneerX](https://pioneerx.ca) 
 <a>
   <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="PioneerX" style="width:49%;">
 </a>
