@@ -1,4 +1,4 @@
-# Wonbin Lee - Web Full-Stack Engineer
+# Wonbin Lee - Full-Stack Engineer
 
 ### AI-driven personalized immigration, job matching, social network assistant - [PioneerX](https://pioneerx.ca) 
 <a>
