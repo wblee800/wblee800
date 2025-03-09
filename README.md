@@ -27,7 +27,7 @@ Explore my GitHub to see my latest projects:
 
 - **Language**: TypeScript, JavaScript, Python, C#, C++
 - **Frontend:** React.js, Fastify, Node.js, styled-components, Tailwind CSS
-- **Backend:** Fastify, Django, GraphQL
+- **Backend:** Fastify, Node.js, Django, GraphQL
 - **Game Development:** Unity 6, Unreal Engine 5.4
 - **AI & ML:** Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
 
