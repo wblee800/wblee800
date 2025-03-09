@@ -25,7 +25,7 @@ Explore my GitHub to see my latest projects:
 
 ## 🛠️ Technical Skills
 
-- **Language**: TypeScript, JavaScript, C++, C#, Python
+- **Language**: TypeScript, JavaScript, Python, C#, C++
 - **Frontend:** React.js, Fastify, Node.js, styled-components, Tailwind CSS
 - **Backend:** Fastify, Django, GraphQL
 - **Game Development:** Unity 6, Unreal Engine 5.4
