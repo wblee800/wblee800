@@ -30,7 +30,6 @@ Explore my GitHub to see my latest projects:
 - **Backend:** Fastify, Django, GraphQL
 - **Game Development:** Unity, Unreal Engine
 - **AI & ML:** Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
-- **Tools:** Git, VSCode, Visual Studio, Docker
 
 <br>
 
