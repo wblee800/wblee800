@@ -26,7 +26,7 @@ Explore my GitHub to see my latest projects:
 ## 🛠️ Technical Skills
 
 - **Language**: TypeScript, JavaScript, Python, C#, C++
-- **Frontend:** React.js, Node.js, styled-components, Tailwind CSS
+- **Frontend:** React.js, Node.js, Tailwind CSS, styled-components
 - **Backend:** Fastify, Node.js, Django, GraphQL
 - **Game Development:** Unity 6, Unreal Engine 5.4
 - **AI & ML:** Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
