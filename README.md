@@ -1,8 +1,8 @@
 # Wonbin Lee - Full-Stack AI Engineer
 
-### AI-driven personalized immigration, job matching, social network assistant - [PioneerX](https://pioneerx.ca) 
+### AI-driven personalized immigration, job matching, social network assistant - [PioneerY](https://PioneerY.co) 
 <a>
-  <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="PioneerX" style="width:49%;">
+  <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="PioneerY" style="width:49%;">
 </a>
 
 ---
@@ -18,7 +18,7 @@ I'm passionate about creating meaningful, innovative solutions that enhance user
 
 Explore my GitHub to see my latest projects:
 
-- [**PioneerX**](https://github.com/katechackers/PioneerX): An AI-driven platform providing personalized immigration, job match, social networking strategies and recommendations.
+- [**PioneerY**](https://github.com/katechackers/PioneerY): An AI-driven platform providing personalized immigration, job match, social networking strategies and recommendations.
 - [**RISKOUT**](https://github.com/osamhack2021/ai_web_RISKOUT_BTS): Risk Management Service for Military
 
 <br>
