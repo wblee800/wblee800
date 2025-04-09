@@ -1,4 +1,4 @@
-# Wonbin Lee - Full-Stack AI Engineer
+# Wonbin Lee - AI Full-Stack Engineer
 
 ### AI-driven personalized immigration, job matching, social networking assistant - [pioneery](https://pioneery.co) 
 <a>
