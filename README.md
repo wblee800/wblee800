@@ -1,6 +1,6 @@
 # Wonbin Lee - AI Full-Stack Engineer
 
-### AI fitness coach for form, combos, and community—train smarter, share more. - [**FightLens**](https://fightlens.app)
+### Train smarter. Fight better. AI-powered coaching and community. - [**FightLens**](https://fightlens.app)
 <a>
   <img src="https://github.com/user-attachments/assets/a3c13908-bbf9-4590-8901-ded30b469d5d" alt="FightLens" style="width:42%;">
 </a>
