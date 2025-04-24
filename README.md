@@ -1,4 +1,4 @@
-# Wonbin Lee - AI Full-Stack Engineer
+# Wonbin Lee - Founder and AI Full-Stack Engineer
 
 ### Train smarter. Fight better. AI-powered coaching and community. - [**FightLens**](https://fightlens.app)
 <a>
