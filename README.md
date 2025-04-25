@@ -6,7 +6,7 @@
 </a>
 
 
-### AI-driven personalized immigration, job matching, social networking assistant - [**pioneer**](https://github.com/katechackers/pioneer)
+### AI-driven personalized immigration, job matching, social networking assistant. - [**pioneer**](https://github.com/katechackers/pioneer)
 <a>
   <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="pioneer" style="width:49%;">
 </a>
