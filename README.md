@@ -2,7 +2,7 @@
 
 ### Train smarter. Fight better. AI-powered coaching and community. - [**FightLens**](https://fightlens.app)
 <a>
-  <img src="https://github.com/user-attachments/assets/b633dd85-c782-4c2d-bb70-d0aaadd9802d" alt="FightLens" style="width:49%;">
+  <img src="https://github.com/user-attachments/assets/d8e8ad13-5fbe-403c-ae99-5abf667e5f0d" alt="FightLens" style="width:49%;">
 </a>
 
 
