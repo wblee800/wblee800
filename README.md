@@ -24,7 +24,7 @@ I'm passionate about creating meaningful, innovative solutions that enhance user
 
 Explore my GitHub to see my latest projects:
 
-- [**pioneer**](https://github.com/katechackers/pioneer): AI-driven platform providing personalized immigration, job match, social networking strategies and recommendations.
+- [**pioneer**](https://github.com/katechackers/pioneer): AI-driven service providing personalized immigration, job match, social networking strategies and recommendations.
 - [**RISKOUT**](https://github.com/osamhack2021/ai_web_RISKOUT_BTS): Risk Management Service for Military
 
 <br>
