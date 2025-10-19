@@ -15,8 +15,8 @@
 
 ## [Resume](https://docs.google.com/document/d/10ZeLIKIJMjlI3UOuUhqHkZJmXVY_pb2C/edit?usp=sharing&ouid=102868772148828457417&rtpof=true&sd=true)
 Welcome to my GitHub! <br>
-I'm Wonbin Lee, the founder of FightLens, and an AI full-stack engineer who majored in computer engineering in South Korea.
-I'm passionate about creating meaningful, innovative solutions that enhance user experiences. With expertise in AI full-stack development, game design, and AI-driven projects, I thrive in environments where technology meets creativity.
+I'm Wonbin Lee, the founder of FightLens, and a full-stack AI engineer who majored in computer engineering in South Korea.
+I'm passionate about creating meaningful, innovative solutions that enhance user experiences. With expertise in full-stack AI development, game design, and AI-driven projects, I thrive in environments where technology meets creativity.
 
 <br>
 
