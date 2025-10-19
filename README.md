@@ -43,6 +43,6 @@ Explore my GitHub to see my latest projects:
 
 - **[LinkedIn](https://linkedin.com/in/wblee800)**
 - **[Website](https://wblee.space)**
-- **[wblee800@gmail.com](mailto:wblee800@gmail.com)**
+- **[wblee@pioneery.co](mailto:wblee@pioneery.co)**
 
 I’m always open to discussing exciting opportunities, collaborations, or sharing ideas. Let’s build something remarkable together!
