@@ -6,9 +6,9 @@
 </a>
 
 
-### AI-driven personalized immigration, job matching, and social networking assistant. - [**pioneer**](https://github.com/katechackers/pioneer)
+### AI-driven personalized immigration, job matching, and social networking assistant. - [**pioneery**](https://github.com/katechackers/pioneery)
 <a>
-  <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="pioneer" style="width:49%;">
+  <img src="https://github.com/user-attachments/assets/6c0d6e30-7b27-473b-beb9-284331287f8e" alt="pioneery" style="width:49%;">
 </a>
 
 ---
@@ -24,7 +24,7 @@ I'm passionate about creating meaningful, innovative solutions that enhance user
 
 Explore my GitHub to see my latest projects:
 
-- [**pioneer**](https://github.com/katechackers/pioneer): AI-driven service providing personalized immigration, job match, social networking strategies and recommendations.
+- [**pioneery**](https://github.com/katechackers/pioneery): AI-driven service providing personalized immigration, job match, social networking strategies and recommendations.
 - [**RISKOUT**](https://github.com/osamhack2021/ai_web_RISKOUT_BTS): Risk Management Service for Military
 
 <br>
@@ -43,6 +43,6 @@ Explore my GitHub to see my latest projects:
 
 - **[LinkedIn](https://linkedin.com/in/wblee800)**
 - **[Website](https://wblee.space)**
-- **[wblee@pioneery.co](mailto:wblee@pioneery.co)**
+- **[wblee@y.co](mailto:wblee@y.co)**
 
 I’m always open to discussing exciting opportunities, collaborations, or sharing ideas. Let’s build something remarkable together!
