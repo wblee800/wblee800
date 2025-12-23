@@ -1,4 +1,4 @@
-# Wonbin Lee - CEO and AI Frontend Engineer
+# Wonbin Lee - AI Frontend Engineer
 
 ### Train smarter 🧠. Fight better 🥊. AI-powered coaching and community. - [**FightLens**](https://fightlens.app)
 <a>
